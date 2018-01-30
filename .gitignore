@@ -1,0 +1,6 @@
+#*#
+*~
+scrap-env
+__pycache__
+tests/.cache/*
+.coverage
